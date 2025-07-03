@@ -1,6 +1,7 @@
+A simple Express mock server that checks whether a transaction is HSA/FSA eligible.
+
 To run the server:
 ```
-npm init -y
 npm install express
 node server.js
 ```
